@@ -1,8 +1,8 @@
 # DSPico-Image-Conversor
 
-Convierte casi cualquier imagen en el fortado de cover de DSPico
+Convierte casi cualquier imagen en el fortado de cover de DSPico SIN PERDER CALIDAD
 
-Convert almost any image to DSPico Conver Format
+Convert almost any image to DSPico Conver Format NO QUALITY LOSS
 
 
 Escrito en C++
